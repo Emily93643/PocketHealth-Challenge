@@ -1,0 +1,10 @@
+.main-text {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.home-component {
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 10px;
+}
